@@ -5,7 +5,7 @@
   <h1 style="font-family:garamond; font: size 12px;">Vehicle Theft in San Francisco</h1>
   </head>
   <body>
-    ![title](/assets/images/stealing-a-car.jpg)
+    ![title](stealing-a-car.jpg)
   <p>San Francisco city has been always high in happening crime rates; among them vehicle thefts is one of the most common crimes reported to the police. For this assignment I choose to dig up with Vehicle theft category.
    <br>
    <h2> The choropleth map</h2>
