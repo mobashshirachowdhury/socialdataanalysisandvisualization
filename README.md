@@ -10,6 +10,7 @@
   <p>San Francisco city has been always high in happening crime rates; among them vehicle thefts is one of the most common crimes reported to the police. For this assignment I choose to dig up with Vehicle theft category.
    <br>
    <h2> The choropleth map</h2>
+    ![mapplot](https://user-images.githubusercontent.com/123973370/228149536-5a8dfc69-6fe5-4505-b9e9-b02bf828e310.png)
    <p>
 For better understand of the distribution of vehicle thefts across San Francisco, I looked at the number of thefts in each of the city's districts. I made a choropleth map which shows the number of vehicle thefts in each district from 2003 to 2018.
 <br>
